@@ -1,0 +1,4 @@
+pymongo
+twitter
+pandas
+textblob
